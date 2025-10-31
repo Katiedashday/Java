@@ -13,7 +13,7 @@ public class OOPCarClass {
     /**
      * @param args the command line arguments
      */
-    //kate
+    //kate_OOP
     public static void main(String[] args) {
         Car fiesta = new Car();
 
